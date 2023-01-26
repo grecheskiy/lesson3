@@ -1,0 +1,15 @@
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/bin/Debug/net6.0/homework_3_2
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/bin/Debug/net6.0/homework_3_2.deps.json
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/bin/Debug/net6.0/homework_3_2.runtimeconfig.json
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/bin/Debug/net6.0/homework_3_2.dll
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/bin/Debug/net6.0/ref/homework_3_2.dll
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/bin/Debug/net6.0/homework_3_2.pdb
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.csproj.AssemblyReference.cache
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.AssemblyInfoInputs.cache
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.AssemblyInfo.cs
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.csproj.CoreCompileInputs.cache
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.dll
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/ref/homework_3_2.dll
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.pdb
+/home/grekov/Documents/GitHub/GITHUB_practice_3/homework_3_2/obj/Debug/net6.0/homework_3_2.genruntimeconfig.cache
